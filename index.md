@@ -20,7 +20,7 @@ Currently focusing on strengthening my analytics stack (SQL, Python, visualizati
 </aside>
 
 <aside>
-<img src="Darya%20Auchynnik%20Portfolio/174857.png" alt="Darya%20Auchynnik%20Portfolio/174857.png" width="40px" /> [linkedin.com](https://www.linkedin.com/in/auchynnikdarya)
+<img src="174857.png" alt="174857.png" width="40px" /> [linkedin.com](https://www.linkedin.com/in/auchynnikdarya)
 
 </aside>
 
